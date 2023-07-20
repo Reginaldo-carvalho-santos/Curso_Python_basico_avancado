@@ -11,3 +11,5 @@ elif palavra not in list:
     print(f"{palavra}, não encontrada")
 
 print(bool(palavra in list))
+
+print (" commiteii")
