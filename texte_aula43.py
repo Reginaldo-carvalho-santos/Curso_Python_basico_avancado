@@ -13,3 +13,4 @@ elif palavra not in list:
 print(bool(palavra in list))
 
 print (" commiteii")
+print("commitei de novo")
